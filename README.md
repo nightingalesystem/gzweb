@@ -3,6 +3,9 @@
 Gzweb is a WebGL client for [Gazebo](http://gazebosim.org). Like gzclient, it's a front-end graphical interface to gzserver and provides visualization of the simulation.
 
 http://gazebosim.org/gzweb
+##
+
+For the user camera to follow the robot copy gz3d.gui.working.js to http/client/gz3d.gui.js after `npm run deploy --- -m`
 
 [![codecov](https://codecov.io/bb/osrf/gzweb/branch/default/graph/badge.svg)](https://codecov.io/bb/osrf/gzweb)
 
